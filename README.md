@@ -4,6 +4,7 @@ ASCIIpy is a Python CLI to convert images to ascii art.
 ## Install
 ```
 git clone https://github.com/corr0si0n/asciipy.git
+pip install -r requirements.txt
 ```
 
 
